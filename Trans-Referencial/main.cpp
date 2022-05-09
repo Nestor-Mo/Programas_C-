@@ -12,6 +12,7 @@ return finNum;
 int main() {
   int b=2;
   int c=3;
+  cout<<a<<endl;
   cout<<((a+2*funcion(b))*(c+2*funcion(b)))<<endl;
   cout<<a<<endl;
   cout<<((a+2*funcion(b))*(c+2*funcion(b)))<<endl;
